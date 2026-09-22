@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mohamed Sahary
 
-<!--
-**knghtsyr/knghtsyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on **Cybersecurity** and **Network Security**.
 
-Here are some ideas to get you started:
+I enjoy building practical projects and expanding my knowledge of software, systems, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Strongest Language**  
+`C`
+
+**Languages & Web**  
+`C++` · `Java` · `Python` · `JavaScript` · `HTML` · `CSS`
+
+## Networking & Security
+
+`Cisco Packet Tracer` · `Wireshark` · `Nmap`
+
+## Current Focus
+
+`Cybersecurity` · `Network Security` · `Software Development`
